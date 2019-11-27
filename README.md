@@ -7,6 +7,10 @@ How to connect a greenhouse to a website
 -Allows for remove access to a greenhouse from anywhere in the word. 
 -This idea can be expanded to work for any IOT device.
 
+# Photos
+
+![The Final ESP8266 Electronics Box](electronics_box.JPG)
+
 # ESP8266 NodeMCU: C++ (Arduino IDE)
 
 https://en.wikipedia.org/wiki/NodeMCU
@@ -15,9 +19,9 @@ https://en.wikipedia.org/wiki/NodeMCU
 * Connects the greenhouse hardware and a personal website. Allows for 2-way communication.
 
 # Website: HTML/CSS/PHP/SQL
--First set up a web-server, either locally or have it hosted. 
--Must be able to run PHP on the server and run a SQL database.
--Then place the following files into the server file scructure as you see fit. 
+- First set up a web-server, either locally or have it hosted. 
+- Must be able to run PHP on the server and run a SQL database.
+- Then place the following files into the server file scructure as you see fit. 
 
 ## The Website Files:
 * greenhouse_interface.php - allows the user to modify database - dependent on change_data.php
