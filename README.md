@@ -11,6 +11,8 @@ How to connect a greenhouse to a website
 
 ![The Final ESP8266 Electronics Box](electronics_box.JPG)
 
+![The "Smart" Greenhouse Under Construction](greenhouse_under_construction.JPG)
+
 # ESP8266 NodeMCU: C++ (Arduino IDE)
 
 https://en.wikipedia.org/wiki/NodeMCU
