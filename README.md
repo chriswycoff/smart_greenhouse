@@ -11,7 +11,7 @@ How to connect a greenhouse to a website
 
 ![The Final ESP8266 Electronics Box](electronics_box.JPG)
 
-<img src="solar.JPG"
+<img src="solar.jpg"
      alt="solar"
      style="float: left; margin-right: 10px;" />
 
