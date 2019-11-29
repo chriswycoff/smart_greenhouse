@@ -12,7 +12,7 @@ How to connect a greenhouse to a website
 ![The Final ESP8266 Electronics Box](electronics_box.JPG)
 
 <img src="solar.JPG"
-     alt="Markdown Monster icon"
+     alt="solar"
      style="float: left; margin-right: 10px;" />
 
 # ESP8266 NodeMCU: C++ (Arduino IDE)
