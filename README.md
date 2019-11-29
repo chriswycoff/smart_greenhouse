@@ -11,7 +11,7 @@ How to connect a greenhouse to a website
 
 ![The Final ESP8266 Electronics Box](electronics_box.JPG)
 
-
+![The Project is 100% solar powered. ](solar.JPG)
 
 # ESP8266 NodeMCU: C++ (Arduino IDE)
 
