@@ -1,0 +1,52 @@
+List of Hardware Used in this project (so far):
+(some links may be obsolete)
+
+
+1. ESP8266 NodeMCU LUA CP2102 ESP-12E
+https://www.amazon.com/gp/product/B010N1SPRK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
+2. USB 2.0 A-Male to Micro B Charger Cable
+https://www.amazon.com/gp/product/B071S5NPG9/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
+3. 12V 12AH Sealed Lead Acid (SLA) AGM Deep Cycle Rechargeable Battery
+https://www.amazon.com/gp/product/B07QPYFBW6/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+
+4. Electrical Insulated Wire Terminals
+https://www.amazon.com/gp/product/B01N1WWR7E/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+
+5. Breadboard
+https://www.amazon.com/gp/product/B07DL13RZH/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+
+6. Constant Temperature PTC Electric Fan Heater for Car Small Space Heating Incubator(12V 150W)
+https://www.amazon.com/gp/product/B07F3PBX7J/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+
+7. 12V 6''Car Cooling Fan 
+https://www.amazon.com/gp/product/B078S9Z6GF/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+
+8. 10 Amp 12V/24V PWM Negative Ground Solar Charge Controller
+https://www.amazon.com/gp/product/B07NPDWZJ7/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+
+9. 100 Watt 12 Volt Monocrystalline Solar Panel
+https://www.amazon.com/gp/product/B07DNMY6N4/ref=ppx_yo_dt_b_asin_title_o03_s03?ie=UTF8&psc=1
+
+10. Drip Irrigation Kit
+https://www.amazon.com/gp/product/B07NM6RDB4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+
+11. Sterilite 54 Qt Gasket Box Clear with Blue Latches
+https://www.target.com/p/sterilite-54-qt-gasket-box-clear-with-blue-latches/-/A-15079778?ref=tgt_adv_XS000000&AFID=google_pla_df&fndsrc=tgtao&CPNG=PLA_Storage%2BOrganization%2BShopping_Local&adgroup=SC_Storage%2BOrganization&LID=700000001170770pgs&network=g&device=c&location=9033026&gclid=CjwKCAiA27LvBRB0EiwAPc8XWY36wXwDfmmIgNvjogrprAEsN0PU69osGCTHPdRh-MihHS_WcLZhdxoCfoUQAvD_BwE&gclsrc=aw.ds
+
+12. Silica Moisture Absorber:
+https://www.amazon.com/gp/product/B071JBBHD7/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
+13. Water Diaphragm Self Priming Pump
+https://www.amazon.com/gp/product/B00P8BE6S8/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+
+14. Wifi Range Extender
+https://www.amazon.com/gp/product/B00R92CL5E/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+
+
+
+
+
+
+
