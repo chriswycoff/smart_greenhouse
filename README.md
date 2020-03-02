@@ -20,8 +20,8 @@ The Final ESP8266 Electronics Box
      alt="images/solar"
      style="float: left; margin-right: 10px;" />
 
-<img src="images/20200227_115930.jpg"
-     alt="images/20200227_115930.jpg"
+<img src="images/nice_green.png"
+     alt="images/nice_green.png"
      style=" width: 200px height 300px" />
 
 # ESP8266 NodeMCU: C++ (Arduino IDE)
