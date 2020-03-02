@@ -15,6 +15,10 @@ How to connect a greenhouse to a website
      alt="images/solar"
      style="float: left; margin-right: 10px;" />
 
+<img src="images/20200227_115930.jpg.jpg"
+     alt="images/20200227_115930.jpg"
+     style="float: left; margin-right: 10px;" />
+
 # ESP8266 NodeMCU: C++ (Arduino IDE)
 
 https://en.wikipedia.org/wiki/NodeMCU
