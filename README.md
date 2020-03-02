@@ -22,7 +22,7 @@ The Final ESP8266 Electronics Box
 
 <img src="images/20200227_115930.jpg"
      alt="images/20200227_115930.jpg"
-     style="float: left; margin-right: 10px;" />
+     style=" margin-right: 10px;" />
 
 # ESP8266 NodeMCU: C++ (Arduino IDE)
 
